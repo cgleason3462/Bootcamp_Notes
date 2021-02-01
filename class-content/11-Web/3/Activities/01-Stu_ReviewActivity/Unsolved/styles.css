@@ -1,0 +1,46 @@
+/* Add your styles here */
+body{
+  background: #f1f1f1;
+}
+
+h1{
+  font-size: 80px;
+  background-color: lightgray; 
+  text-align: center;
+  padding: 50px;
+}
+
+h3{
+  font-size: 30px;
+  text-align: center;
+}
+
+p{
+  text-align: center;
+  white-space: pre-line;
+}
+
+.navbar{
+  padding: 10px;
+  background: #5191fd;
+}
+
+.navbar li {
+  display: inline-block;
+  padding: 20px;
+  margin-right: 10px;
+  margin-left: 10px;
+  cursor: pointer;
+  background: #fff;
+  border-radius: 3px;
+}
+
+/* Find a's within class navbars */
+.navbar li a {
+  color: #000;
+  text-decoration: none;
+}
+
+.header h1{
+    
+}

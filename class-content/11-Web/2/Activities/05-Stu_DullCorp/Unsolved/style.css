@@ -1,0 +1,18 @@
+h1{
+    background-color: grey;
+    color: red;
+    text-align: center;   
+}
+h3{
+    color: orange;
+}
+section{
+    background-color: black;
+    color: white;
+}
+h2{
+    color: pink;
+}
+img{
+    box-shadow: 10px 10px 5px black;
+}
